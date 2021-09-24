@@ -1,4 +1,4 @@
-##Project description:
+## Project description:
 
 All the local administrative annexes(AALs) of Agadir contact the Wilaya of Souss-Massa to access the bases of
 data recorded on the Wilaya's server, but this connection is not secure.
@@ -7,7 +7,7 @@ all the AALs and link them to the Wilaya server and manage the latter using a
 Web application for connection management between the AALs and the wilaya to ensure security
 of the connection.
 
-##The web application should provide several functions such as:
+## The web application should provide several functions such as:
 
 ✓ Authentication (limited and secure access)
 
